@@ -1,14 +1,8 @@
 ### Hi there 👋
-
-<!--
-**julia4/julia4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently looking for Senior Java Developer and Lead Java, DevOps for long term cooperation only for Ukrainian developers.
-Hi-tech product company.
-- 🌱 I’m currently learning HR manager course.
-- 👯 I’m looking to collaborate on developers
+I`m a IT-recruiter, with work experience about 3 years in different companies in Ukraine.
+- 🔭 I’m currently looking for Senior Java Developer and Lead Java, DevOps for long term cooperation only for Ukrainian developers. Hi-tech product company, Kyiv
+- 🌱 I’m currently learning HR manager course in genius.space and of course English.
+- 👯 I’m looking to collaborate on developers from Ukraine.
 - 💬 Ask me about vacancies in a company where I work for.
-- 📫 How to reach me: mail - ajulia4@gmail.com, or https://t.me/u_jumay
+- 📫 How to reach me: e-mail - ajulia4@gmail.com, or https://t.me/u_jumay
 - see you :)
