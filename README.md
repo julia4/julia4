@@ -1,11 +1,8 @@
 ### Hi there 👋
-# Professional Bio
-## About Me
-
-I am a Prompt Engineer and AI Prototype Specialist of hands-on experience in the field. My professional foundation includes over five years of success in IT Recruitment, which has provided me with comprehensive domain knowledge of the technology landscape. This cross-functional expertise enables me to develop AI solutions that align with industry demands and user expectations.
+I am a Prompt Engineer and AI Prototype Specialist. My professional foundation includes over five years of success in IT Recruitment, which has provided me with comprehensive domain knowledge of the technology landscape. This cross-functional expertise enables me to develop AI solutions that align with industry demands and user expectations.
 
 **Interests:** Art therapy and English language development
-**Collaboration:** Seeking partnerships with companies based in Ukraine
+
 ---
 ## Contact
 - **Email:** ajulia4@gmail.com
