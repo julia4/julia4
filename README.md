@@ -5,7 +5,7 @@ I am a Prompt Engineer and AI Prototype Specialist. My professional foundation i
 
 ---
 ## Contact
-- **Email:** ajulia4@gmail.com
+- **Email:** yuliyakolesnikova@hotmail.com
 - **Telegram:** https://t.me/u_jumay
 --
 *I look forward to connecting with you.*
