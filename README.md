@@ -6,7 +6,7 @@ My professional foundation includes over five years of success in IT Recruitment
 This cross-functional expertise enables me to develop AI solutions that align with industry demands and user expectations.
 
 **Interests:** Art therapy and English language development
-
+ 
 ---
 ## Contact
 - **Email:** yuliyakolesnikova@hotmail.com
